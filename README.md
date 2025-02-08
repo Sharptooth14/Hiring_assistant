@@ -3,6 +3,9 @@
 ## Project Overview
 The Hiring Assistant Chatbot is an AI-driven interview assistant designed to conduct technical interviews based on a candidate's experience and tech stack. Built using **Python, Streamlit, and Groq's LLM (LLaMA-3.3-70b-versatile)**, the chatbot dynamically generates interview questions, maintains context throughout the conversation, analyzes sentiment in candidate responses, and gracefully concludes the interview when requested. It ensures a structured and meaningful interaction, guiding candidates through a comprehensive interview experience.
 
+## Demo
+Live link: https://sharptooth14-hiring-assistant-main-ppefwj.streamlit.app/
+
 ## Installation Instructions
 To set up and run the application locally, follow these steps:
 
